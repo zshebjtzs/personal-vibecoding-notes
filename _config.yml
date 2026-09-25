@@ -1,0 +1,8 @@
+theme: minima
+title: 浅谈 Vibecoding 的实战应用
+
+# 语言设置
+lang: zh-CN
+# 确保 en 目录被正确识别
+include:
+  - en

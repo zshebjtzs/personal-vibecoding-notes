@@ -1,3 +1,8 @@
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="/personal-vibecoding-notes/">中文</a> | <a href="/personal-vibecoding-notes/en/">English</a>
+</div>
+
+
 ---
 layout: page
 title: 正文
