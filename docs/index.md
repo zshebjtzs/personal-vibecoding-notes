@@ -1,12 +1,11 @@
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="./">中文</a> | <a href="./en/">English</a>
-</div>
-
-
 ---
 layout: page
 title: 正文
 ---
+
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="./">中文</a> | <a href="./en/">English</a>
+</div>
 
 ## 引言
 
