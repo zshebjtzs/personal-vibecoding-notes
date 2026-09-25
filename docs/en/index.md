@@ -1,6 +1,11 @@
 <div style="text-align: right; margin-bottom: 20px;">
-  <a href="/personal-vibecoding-notes/">中文</a> | <a href="/personal-vibecoding-notes/en/">English</a>
+  <a href="../">中文</a> | <a href="./">English</a>
 </div>
+
+---
+layout: page
+title: Main
+---
 
 ## Introduction
 
